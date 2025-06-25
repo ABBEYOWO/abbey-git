@@ -1,0 +1,6 @@
+git branch -M main
+git push -u origin main
+this is from remote 4
+fetching 5 from remote
+fetching 7 from remote
+pushing 7 from loaclab
